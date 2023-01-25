@@ -57,9 +57,9 @@ Q(s
 ## Screenshots
 
 
-![App Screenshot](https://github.com/mahesh191201/Lunar-Lander-using-DQN/blob/master/demo/lunar.png?raw=true)
+![App Screenshot](https://github.com/mahesh191201/Lunar-Lander-using-DQN/blob/master/demo/lunarlanderpost-2.png?raw=true)
 
 
 
-![App Screenshot](https://github.com/mahesh191201/Lunar-Lander-using-DQN/blob/master/demo/download.png?raw=true)
+![App Screenshot](https://github.com/mahesh191201/Lunar-Lander-using-DQN/blob/master/demo/graph.jpg?raw=true)
 
